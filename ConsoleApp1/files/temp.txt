@@ -1,0 +1,5 @@
+hello:Asda
+hey:Asd
+welcome:Asd
+sda
+ada:ads
