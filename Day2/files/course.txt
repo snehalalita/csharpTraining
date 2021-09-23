@@ -1,0 +1,10 @@
+Number of courses:2
+*******************************
+Regno:1
+Course:cse
+Title:java
+
+Regno:2
+Course:cse
+Title:sql
+
